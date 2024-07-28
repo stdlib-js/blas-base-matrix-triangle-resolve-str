@@ -38,7 +38,8 @@
   },
   "dependencies": {
     "@stdlib/blas-base-matrix-triangle-enum2str": "^0.1.1",
-    "@stdlib/blas-base-matrix-triangle-str2enum": "^0.1.1"
+    "@stdlib/blas-base-matrix-triangle-str2enum": "^0.1.1",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.2"
   },
   "devDependencies": {
     "@stdlib/assert-is-string": "^0.2.2",
