@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import resolve from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-matrix-triangle-resolve-str@deno/mod.js';
+import resolve from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-matrix-triangle-resolve-str@v0.0.1-deno/mod.js';
 ```
 
 #### resolve( value )
@@ -98,7 +98,7 @@ var v = resolve( 'beep' );
 
 ```javascript
 import str2enum from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-matrix-triangle-str2enum@deno/mod.js';
-import resolve from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-matrix-triangle-resolve-str@deno/mod.js';
+import resolve from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-matrix-triangle-resolve-str@v0.0.1-deno/mod.js';
 
 var v = resolve( str2enum( 'upper' ) );
 // returns 'upper'
